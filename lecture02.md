@@ -36,8 +36,12 @@ SSH　KEY　追加できず…
 
  ![image](https://user-images.githubusercontent.com/122083101/212110428-69afedad-c01e-4eae-97e9-ec72a0de2ae0.png)
 
-#### 6.　GitHub でプルリクエスト（Pull Request）を発行できたら、Slackで報告。
+#### 6.　GitHub でプルリクエスト（Pull Request）を発行できたら、Slackで報告。≫≫問題あった、解決。
 
+- Propose　change　したの時気付かずにCommit directly to the main branch.　選んてしまったのでPull Requestできず
+- 
+
+![image](https://user-images.githubusercontent.com/122083101/212130685-549fdc6c-4569-4777-b3cd-4321f556975a.png)
 
 ## 参考資料
 ##### Gitを初めて扱うひとのためのガイドプロジェクトです。
