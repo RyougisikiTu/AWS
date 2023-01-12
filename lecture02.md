@@ -1,2 +1,2 @@
 # lecture02
-###AAAAAAA
+###  AAAAAAA
