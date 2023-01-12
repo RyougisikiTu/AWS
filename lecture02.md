@@ -38,6 +38,7 @@ SSH　KEY　追加できず…
 
 #### 6.　GitHub でプルリクエスト（Pull Request）を発行できたら、Slackで報告。
 
+`git clone --local git@github.com:RyougisikiTu/AWS.git`
 
 ## 参考資料
 ##### Gitを初めて扱うひとのためのガイドプロジェクトです。
